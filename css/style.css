@@ -10,10 +10,41 @@
 /******************************************
 /* LAYOUT
 /*******************************************/
+body {
+  max-width: 800px;
+  
+}
+
+input {
+  display: inline;
+  width: 300px;
+}
+
+button {
+  display: inline;
+  width: 100px;
+}
+
+ul {
+  padding: 0px;
+}
+
+li {
+  list-style-type: none;
+}
+
+
 img{
+  height: 300px;
   display: block;
   margin: 0 auto;
 }
+
+input
+
+
+
+
 
 
 /******************************************
