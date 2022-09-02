@@ -1,3 +1,4 @@
 # random-cocktail-picker
 
-A simple app that suggests a random cocktail based on any input ingredient.
+Assignment - Simple app to practice fetching from an api and updating the dom with the information.
+
